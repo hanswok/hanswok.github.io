@@ -73,9 +73,9 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "7d57c1a17a6753f7e34342414ce2a83cf3ed1365"
 yandex_site_verification :
-baidu_site_verification  : "7d57c1a17a6753f7e34342414ce2a83cf3ed1365"
+baidu_site_verification  : 
 
 # Social Sharing
 twitter:
