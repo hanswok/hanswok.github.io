@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "Blog, One"
 title_separator          : "-"
 subtitle                 : ""
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hanswok@naver.com"
+      # url: "mailto:hanswok@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://hanswok.github.io/"
